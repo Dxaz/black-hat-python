@@ -4,7 +4,7 @@ ToDo:
     * Add argparse vs argv
     * Add functionality to request_handler()
     * Add functionality to response_handler()
-    * Clean code up somethings are done messy in the book
+    * Clean code up
     * Modulate as needed
 '''
 import sys
